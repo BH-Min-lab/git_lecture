@@ -1,5 +1,22 @@
 # git_lecture
 
-## github의문서는 markdown을 기반으로 작성합니다.
+## Prerequisites
 
-[Go to google](https://www.google.com/)
+## How to Start
+
+- python^3.12
+- FastAPI==1.0.0
+
+```shell
+$git clone 
+```
+
+## INstallation
+
+## Features
+
+## Run Tests
+
+## Credit
+
+- BH-Min-lab
